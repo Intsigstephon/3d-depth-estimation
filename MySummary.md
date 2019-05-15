@@ -16,6 +16,6 @@ stereo image是来自两个相机（或者双目相机）在同一水平线上�
 这些方法利用了深度信息和场景之间的一些物理规律来约束，得到了很不错的结果. 
 以下为该思路下的三种方法，可以说是一脉相承：
 
-Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue（2016 ECCV)
-Unsupervised Monocular Depth Estimation with Left-Right Consistency (2017 CVPR)
-Semi-Supervised Deep Learning for Monocular Depth Map Prediction （2017 CVPR）
+- Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue（2016 ECCV)
+- Unsupervised Monocular Depth Estimation with Left-Right Consistency (2017 CVPR)
+- Semi-Supervised Deep Learning for Monocular Depth Map Prediction （2017 CVPR）
