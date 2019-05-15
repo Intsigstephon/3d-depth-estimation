@@ -21,7 +21,7 @@ stereo image是来自两个相机（或者双目相机）在同一水平线上�
 - Semi-Supervised Deep Learning for Monocular Depth Map Prediction （2017 CVPR）
 
 ### 2019.05.15
-  Depth-map-prediction-from-a-single-image-using-a-multi-scale-deep-network （2014）
+  - #### Depth-map-prediction-from-a-single-image-using-a-multi-scale-deep-network （2014）
   1. just use depth image as the surpervised signal
   2. alexnet as backbone;
   3. 4x downsampleing
@@ -31,7 +31,7 @@ stereo image是来自两个相机（或者双目相机）在同一水平线上�
   7. train data: NYU Depth/Kitti
   8. source based on theano: so useless; older; abandoned
   
-  Predicting Depth, Surface Normals and Semantic Labelswith a Common Multi-Scale Convolutional Architecture(2015)
+  - #### Predicting Depth, Surface Normals and Semantic Labelswith a Common Multi-Scale Convolutional Architecture(2015)
   1. multi-task: depth estimation; semantic labeling; surface normal estimation
   2. two scale ---- three scales
   3. bacbone from alexnet to VGG
