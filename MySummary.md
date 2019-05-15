@@ -30,3 +30,11 @@ stereo image是来自两个相机（或者双目相机）在同一水平线上�
   6. input size is random;
   7. train data: NYU Depth/Kitti
   8. source based on theano: so useless; older; abandoned
+  
+  Predicting Depth, Surface Normals and Semantic Labelswith a Common Multi-Scale Convolutional Architecture(2015)
+  1. multi-task: depth estimation; semantic labeling; surface normal estimation
+  2. two scale ---- three scales
+  3. bacbone from alexnet to VGG
+  4. no intensive reading; essentially surpervised learning; multi-task training promotes each task precision;
+  5. same taolu: multi-scale; feature fusion; multi-task;
+  6. (depth estimation) is strongly related to (semantic segmentation), so can be done in a single network.
