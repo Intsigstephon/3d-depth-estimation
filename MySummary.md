@@ -38,3 +38,9 @@ stereo image是来自两个相机（或者双目相机）在同一水平线上�
   4. no intensive reading; essentially surpervised learning; multi-task training promotes each task precision;
   5. same taolu: multi-scale; feature fusion; multi-task;
   6. (depth estimation) is strongly related to (semantic segmentation), so can be done in a single network.
+
+### 2019.05.17
+  - #### Deeper Depth Prediction with Fully Convolutional Residual Network
+  1. resnet architecture
+  2. open source called FCRN(implemented based on tensorflow)
+   
